@@ -1,3 +1,1 @@
-hello, Oookli!
-
-please, make some changes in this file
+This is promoter design repository
